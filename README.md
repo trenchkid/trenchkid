@@ -1,5 +1,4 @@
 <img src="Rainbow.gif" width="100%">
-
 ### Hi there, I'm [Pre!](https://github.com/trenchkid) <a href="https://discord.gg/london"><img src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" alt="Discord" width="27px"></a>
 <hr>
 
