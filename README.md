@@ -1,4 +1,5 @@
 <img src="Rainbow.gif" width="100%">
+
 ### Hi there, I'm [Pre!](https://github.com/trenchkid) <a href="https://discord.gg/london"><img src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" alt="Discord" width="27px"></a>
 <hr>
 
@@ -22,7 +23,7 @@
 <img src="https://discord.c99.nl/widget/theme-3/690042540564676654.png">
 
 <h3>🎶 Vibing to</h3>
-<a href="https://open.spotify.com/user/	31f2px557ala2ewk7mw5lsakmomq">
+<a href="https://open.spotify.com/user/31f2px557ala2ewk7mw5lsakmomq">
   <img src="https://itstommi.vercel.app/api?theme=dark&scan=false&rainbow=true" alt="Current Spotify Song">
 </a>
 
