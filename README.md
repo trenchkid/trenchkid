@@ -1,6 +1,6 @@
 <img src="Rainbow.gif" width="100%">
 
-### Hi there, I'm [Pre!](https://github.com/trenchkid) <a href="https://discord.gg/london"><img src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" alt="Discord" width="27px"></a>
+### Hi there, I'm [Pre!](https://github.com/trenchkid) <a href="https://discord.gg/fendi"><img src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" alt="Discord" width="20px"></a>
 <hr>
 
 - Python
@@ -18,9 +18,18 @@
 <code><img height="20" src="https://visualstudio.microsoft.com/wp-content/uploads/2019/06/BrandVisualStudioWin2019-3.svg"></code>
 <hr>
  
- 
-<img src="https://komarev.com/ghpvc/?username=trenchkid&label=Profile%20views&color=0e75b6&style=flat" alt="trenchkid" /> </p>
-<img src="https://discord.c99.nl/widget/theme-3/690042540564676654.png">
+<h1>
+    <div align="center">
+    <img src="https://lanyard-profile-readme.vercel.app/api/690042540564676654?theme=dark&bg=574dff&animated=true&hideDiscrim=false&borderRadius=30px&invisibleMessage=Probably%20doing%20something%20else...(https://discord.com/users/690042540564676654)" />
+    </a>    
+<p align="center">
+  <strong><a href="https://slit.lol">Pre</a></strong> |
+  <strong><a href="https://discord.gg/fendi">Discord</a></strong>
+</p><strong>
+</h1>
+<!-- <img src="https://komarev.com/ghpvc/?username=trenchkid&label=Profile%20views&color=0e75b6&style=flat" alt="trenchkid" /> </p>
+<img src="https://discord.c99.nl/widget/theme-3/690042540564676654.png"> -->
+
 
 <!-- <h3>🎶 Vibing to</h3>
 <a href="https://open.spotify.com/user/31f2px557ala2ewk7mw5lsakmomq">
