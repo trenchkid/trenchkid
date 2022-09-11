@@ -31,16 +31,11 @@
 <img src="https://discord.c99.nl/widget/theme-3/690042540564676654.png"> -->
 
 
-<!-- <h3>🎶 Vibing to</h3>
-<a href="https://open.spotify.com/user/31f2px557ala2ewk7mw5lsakmomq">
-  <img src="https://itstommi.vercel.app/api?theme=dark&scan=false&rainbow=true" alt="Current Spotify Song">
-</a> -->
-
 
 <hr>
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=trenchkid&show_icons=true&line_height=27&include_all_commits=true&count_private=true" />
-  <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trenchkid&exclude_repo=RBLXHUB,MirayCDN,NHSE-VillagerDB" alt="pre's github stats" /> -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=trenchkid&hide=contribs,prs&show_icons=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=D34144" />
+
   
 <hr>
 
