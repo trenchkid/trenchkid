@@ -20,7 +20,7 @@
  
 <h1>
     <div align="center">
-    <img src="https://lanyard-profile-readme.vercel.app/api/690042540564676654?theme=dark&bg=574dff&animated=true&hideDiscrim=false&borderRadius=30px&invisibleMessage=Probably%20doing%20something%20else...(https://discord.com/users/690042540564676654)" />
+    <img src="https://lanyard-profile-readme.vercel.app/api/1056909274858651708?theme=dark&bg=574dff&animated=true&hideDiscrim=false&borderRadius=30px&invisibleMessage=Probably%20doing%20something%20else...(https://discord.com/users/690042540564676654)" />
     </a>    
 <p align="center">
   <strong><a href="https://slit.lol">Pre</a></strong> |
