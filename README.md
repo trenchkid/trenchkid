@@ -1,6 +1,6 @@
 <img src="Rainbow.gif" width="100%">
 
-### Hi there, I'm [Pre!](https://github.com/trenchkid) <a href="https:///github.com/trenchkid"><img src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" alt="Discord" width="20px"></a>
+### Hi there" width="20px"></a>
 <hr>
 
 - Python
