@@ -1,6 +1,6 @@
 <img src="Rainbow.gif" width="100%">
 
-### Hi there" width="20px"></a>
+### Hi there
 <hr>
 
 - Python
